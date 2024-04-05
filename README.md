@@ -1,6 +1,6 @@
 ![terminator-logo](https://github.com/suffs811/writeups/blob/main/terminator-img/small-terminator.png)
 # the terminator
-+++ a tool for automating common techniques for the enumeration, privilege escalation, persistence, exfiltration, and reporting stages of a pentest +++
++++ a linux tool for automating common techniques for the enumeration, privilege escalation, persistence, exfiltration, and reporting stages of a pentest +++
 
 >check out the terminator's TryHackMe [room](https://tryhackme.com/jr/theterminator) to learn how to use this powerful tool!
 
